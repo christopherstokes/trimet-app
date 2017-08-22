@@ -1,0 +1,19 @@
+{
+  "name": "trimet-app",
+  "version": "1.0.0",
+  "description": "simple trimet application with alarm clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkfngs/trimet-app.git"
+  },
+  "author": "Christopher Stokes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xkfngs/trimet-app/issues"
+  },
+  "homepage": "https://github.com/xkfngs/trimet-app#readme"
+}
